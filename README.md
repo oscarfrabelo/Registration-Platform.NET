@@ -1,2 +1,2 @@
-# app.net
-creating an app
+#registration platform
+creating an app using visual Studio Code
